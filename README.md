@@ -188,6 +188,8 @@ The JMeter test plan is set up in the following way:
   complement your explanations. We expect that you take a deeper a
   look at session management.
 
+  
+
 2. Explain what should be the correct behavior of the load balancer for
   session management.
 
